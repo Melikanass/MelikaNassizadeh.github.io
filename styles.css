@@ -12,12 +12,13 @@
 	margin: auto;
 	padding: 50px;
 }
-h1{
+.mainPageHeadline{
 	text-align: center;
 	margin: auto;
 	color: #373737;
 	font-family: Brush Script MT, Brush Script Std, cursive;
 	font-size: 500%;  
+	font-weight:normal;
 }
 hr{
 	height:2px;
